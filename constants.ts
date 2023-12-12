@@ -118,7 +118,7 @@ export const PROJECTS: IProject[] = [
     blurImage: "/projects/blur/beverli-hills blur.jpg",
     description: "A flagship Hotel Reservation Web App built using MERN Stack",
     gradient: ["#5E4C06", "#746528"],
-    url: "https://www.akgec.ac.in/",
+    url: "https://the-beverli-hotel.vercel.app/",
     tech: ['react',"javascript", "html", "css"],
   },
   {
