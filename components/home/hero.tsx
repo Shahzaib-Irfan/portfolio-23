@@ -92,7 +92,7 @@ const HeroSection = React.memo(() => {
             target: "_blank",
             rel: "noreferrer",
           }}
-          href="/Resume_Shahzaib.pdf"
+          href="/Resume Shahzaib.pdf"
         ></Button>
         <Button
           classes="ml-3"
